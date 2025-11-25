@@ -1,4 +1,3 @@
-// src/config.ts
 import { Context } from "probot";
 import { AppConfig } from "./types";
 
