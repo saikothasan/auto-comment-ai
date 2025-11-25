@@ -1,0 +1,5 @@
+active: true
+model: "openai/gpt-4o"
+systemMessage: "You are a witty code reviewer. Be concise."
+prTrigger: true
+issueTrigger: false
